@@ -15,9 +15,8 @@ The purpose of this project is understanding of how changes in price impacts dir
 * Pandas, jupyter
 
 ### Model Used:
-*GAM Model
- GAM stands for Generalized Additive Models that smoothen the semi-parametric models.
-*Optimization : XGBoost
+* GAM Model-  GAM stands for Generalized Additive Models that smoothen the semi-parametric models.
+* Optimization : XGBoost
 
 ### Project Description
 Price elasticity of demand is a measurement of the change in the demand for a product in relation to a change in its price. Elastic demand is when the change in demand is large when there is a change in price. Inelastic demand is when the change in demand is small when there is a change in price.
