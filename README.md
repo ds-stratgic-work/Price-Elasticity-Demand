@@ -26,6 +26,11 @@ Price elasticity of demand is a measurement of the change in the demand for a pr
 
 - frontend developers
 
-- Github Link: https://github.com/ds-stratgic-work/Price-Elasticity-Demand.git 
+- Ref Articles:
+  https://www.analyticsvidhya.com/blog/2023/09/understanding-generalized-additive-models-gams-a-comprehensive-guide/ 
+  https://medium.com/@chenycy/unlock-price-optimization-potential-with-python-modelling-linear-and-non-linear-price-elasticity-563773e5ba53
+  
+
+
 
 
